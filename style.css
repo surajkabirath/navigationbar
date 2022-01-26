@@ -84,7 +84,7 @@ a:hover{
         width: 100%;
         background: hsl(271, 98%, 46%);
         top: 80px;
-        left: -100px;
+        left: -800px;
         text-align: right;
         transition: all .5s;
         padding-right: 10px;
